@@ -1,0 +1,148 @@
+﻿  Angry.cpp
+  AnimationComponent.cpp
+  AnimationObject.cpp
+  Attack.cpp
+  BloodParticle.cpp
+  BlueMagicBullet.cpp
+  CollisionComponent.cpp
+  CollisionManager.cpp
+  DamageZone.cpp
+  DeadFury.cpp
+  Dragon.cpp
+  Enemy.cpp
+  EnemyBoss.cpp
+  Event.cpp
+  EventSystem.cpp
+  FireBall.cpp
+  GameEndingState.cpp
+  GameLoseState.cpp
+  GameMenuState.cpp
+  GameRunningState.cpp
+  Generating Code...
+  Compiling...
+  GameWinState.cpp
+  HealingZone.cpp
+  ImageLoadingSystem.cpp
+  Item.cpp
+  MagicWave.cpp
+  main.cpp
+  ObjectBase.cpp
+  ParticleEmitter.cpp
+  ParticleObject.cpp
+  Player.cpp
+  Projectile.cpp
+  RandomNumberGenerator.cpp
+  ReadWriteSystem.cpp
+  SimpleSDLGame.cpp
+  SmallOpticalWave.cpp
+  SoundLoadingSystem.cpp
+  SoundPlayer.cpp
+  SpawnerSystem.cpp
+  StateMachine.cpp
+  StaticBoarder.cpp
+  Generating Code...
+  Compiling...
+  SuperBomb.cpp
+  Thunder.cpp
+  Tree.cpp
+  UIButton.cpp
+  UIHealth.cpp
+  UIHud.cpp
+  UIInputTaking.cpp
+  UIPlayerInfo.cpp
+  UISavingLoading.cpp
+  UITextField.cpp
+  UITextureButton.cpp
+  Vector2D.cpp
+  Wall.cpp
+  WallBreakParticle.cpp
+  Wander.cpp
+  WeaponPowerUp.cpp
+  WinZone.cpp
+  WorldBackground.cpp
+  Zombie.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\x64\Debug\Game.exe
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\background.bmp
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\healthIcon.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\HUD.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\inputBox.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\lose.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\mainMenu1.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\playerprofile.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\SaveLoad.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\wall.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\warplaneprofile.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\win.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Boss\boss.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Boss\bossDie.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Boss\fireball.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Boss\fireShield.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Boss\manaRegen.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Boss\thunder.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\Menu-green.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\Menu-yellow.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\Quit-green.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\Quit-yellow.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\Replay-green.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\Replay-yellow.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\SaveLoad.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Button\saveMenu.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\CharacterAnimation\animation1.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\CharacterAnimation\warplane1.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\EnemyAnimation\Dragon\dragon.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\EnemyAnimation\Tree\tree.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\EnemyAnimation\Zombie\zombie.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Item\clearScreen.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Item\treasure.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Weapon\MagicWave.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Weapon\projectile.jpg
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\Weapon\SmallWaveRed.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\ZoneAnimation\damageZone1.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\ZoneAnimation\healingZone.png
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Assets\ZoneAnimation\winZone.png
+  38 File(s) copied
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Hollows.ttf
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Rainball.ttf
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Satisfy-Regular.ttf
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Teko-Bold.ttf
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Teko-Light.ttf
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Teko-Medium.ttf
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Teko-Regular.ttf
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Fonts\Teko-SemiBold.ttf
+  8 File(s) copied
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\bossDie.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\Explosion.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\HealingZone.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\Hit.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\magicShoot.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\manaRegen.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\Powerup.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\Shoot.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\shootFireballs.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\thunder.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Chunk\WallCracked.wav
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Music\GameBackgroundSound.mp3
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Music\LoseBackgroundSound.mp3
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Music\MenuBackgroundSound.mp3
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\Game\Sounds\Music\WinBackgroundSound.mp3
+  15 File(s) copied
+  C:\Users\yidal\Perforce\dyi_home_workspace\2019_Fall_GAP275_01\dyi\MOD_13\Adventure Land\lib\SDL\lib\x64\SDL2.dll
+  1 File(s) copied
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.

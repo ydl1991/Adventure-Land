@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Player">
+      <UniqueIdentifier>{c804ec76-e15a-45b9-970c-20cf3d640ad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Zone">
+      <UniqueIdentifier>{37477f99-4979-4761-ac48-02fe1d51b08b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Component">
+      <UniqueIdentifier>{0217b1c0-44d7-4b24-84fe-cb3e759ebc2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Enemy">
+      <UniqueIdentifier>{a1910167-90a4-4473-a0a0-2c0b8bb3b90b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Other">
+      <UniqueIdentifier>{749d539a-0978-40d9-a367-8a66ba4c0e74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Base">
+      <UniqueIdentifier>{c24d44c6-0836-41c4-b8a9-470b16741dea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System">
+      <UniqueIdentifier>{b9ecc125-8c19-4c5d-ad6a-67e5ae7809d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Component">
+      <UniqueIdentifier>{99a58154-c76c-4904-8378-5c73b61ad0eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Enemy">
+      <UniqueIdentifier>{cab9c2a3-64b8-40ba-ae49-19941abb18b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Base">
+      <UniqueIdentifier>{70e97e51-123f-4171-8d81-891d90d745d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System">
+      <UniqueIdentifier>{beddfc1b-564b-4f3b-9dde-29541ed0e15e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Zone">
+      <UniqueIdentifier>{070bf21e-6cc7-4bf1-b62b-bb359167245d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Player">
+      <UniqueIdentifier>{287f0967-6692-4b34-8c96-b1f3453e9d78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Other">
+      <UniqueIdentifier>{0eb9f93f-de33-4048-8f24-e219c2fb2c34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\EventSystem">
+      <UniqueIdentifier>{35f66847-5c65-4403-ace3-9bf59f056d6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\StateMachine">
+      <UniqueIdentifier>{11dc2498-7a3c-4940-94de-8e5de17ca110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\EventSystem">
+      <UniqueIdentifier>{5c21ba7d-b175-407f-a604-f9d724a5241a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\StateMachine">
+      <UniqueIdentifier>{919ff1d3-b9f6-4d70-8be8-c0d71b3f8283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BackGround">
+      <UniqueIdentifier>{a412a8b4-0ead-48f8-a701-36bfc33e3042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BackGround">
+      <UniqueIdentifier>{cc09c546-8fe8-430f-9c8e-ac7a1bc179b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{b4be61d4-f7c0-4c44-ae2c-f00ea7cd8f9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI">
+      <UniqueIdentifier>{924272bc-d872-4320-aeea-c7810f39616f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OtherObject">
+      <UniqueIdentifier>{7aac4896-2c3b-4d9a-81e1-4fb4d73f35a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\OtherObject">
+      <UniqueIdentifier>{27fc0603-fbb3-4082-aa70-615cefc0daf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\SoundSystem">
+      <UniqueIdentifier>{4f4d050d-a80a-4c85-9eb5-45cb2a0d0fe6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\SoundSystem">
+      <UniqueIdentifier>{05fa2b13-1ccc-47ea-8144-c7ffe2408cdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\StateMachine\GameStates">
+      <UniqueIdentifier>{fd9b6b56-2f1a-4ed6-b1d3-498325899bc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\StateMachine\ObjectStates">
+      <UniqueIdentifier>{59155b69-9deb-4088-a6d2-b02f59052378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\StateMachine\GameStates">
+      <UniqueIdentifier>{cfa46238-2097-466f-a2f3-700aaf1672d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\StateMachine\ObjectStates">
+      <UniqueIdentifier>{ac5c2a10-007f-4d59-81ac-c560b0bb7dc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\StateMachine\ObjectStates\EnemyStates">
+      <UniqueIdentifier>{0f969706-143c-4ed7-8cef-1a731f77c672}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\StateMachine\ObjectStates\EnemyStates">
+      <UniqueIdentifier>{d84b9c85-aba5-4a5e-b4ca-048a322e9234}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Enemy\BossAbilityAI">
+      <UniqueIdentifier>{0660fdf6-6c16-4729-a9bd-9db45f194559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Weapons">
+      <UniqueIdentifier>{be1c708c-a108-4ee8-ba9e-d8e34e0394bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Weapons">
+      <UniqueIdentifier>{387e567c-ac6e-44b0-88e8-ad44b5082c51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items">
+      <UniqueIdentifier>{d2f7fd74-c1ef-4a7e-826f-24d142872aa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items">
+      <UniqueIdentifier>{43a44b07-13ba-463a-aa2b-220f51a95613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ParticleObjects">
+      <UniqueIdentifier>{5bb920a3-2e79-4537-a238-1320f6d02bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ParticleObjects">
+      <UniqueIdentifier>{5e361deb-132c-4aae-ae08-073e55320f34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleSDLGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationComponent.cpp">
+      <Filter>Source Files\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionComponent.cpp">
+      <Filter>Source Files\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="DamageZone.cpp">
+      <Filter>Source Files\Zone</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="HealingZone.cpp">
+      <Filter>Source Files\Zone</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageLoadingSystem.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectBase.cpp">
+      <Filter>Source Files\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="WinZone.cpp">
+      <Filter>Source Files\Zone</Filter>
+    </ClCompile>
+    <ClCompile Include="Dragon.cpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="EventSystem.cpp">
+      <Filter>Source Files\System\EventSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Source Files\System\EventSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMachine.cpp">
+      <Filter>Source Files\System\StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="SpawnerSystem.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldBackground.cpp">
+      <Filter>Source Files\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationObject.cpp">
+      <Filter>Source Files\OtherObject</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticBoarder.cpp">
+      <Filter>Source Files\OtherObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Source Files\OtherObject</Filter>
+    </ClCompile>
+    <ClCompile Include="UITextField.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIButton.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIHud.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIHealth.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIInputTaking.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIPlayerInfo.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundLoadingSystem.cpp">
+      <Filter>Source Files\System\SoundSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundPlayer.cpp">
+      <Filter>Source Files\System\SoundSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEndingState.cpp">
+      <Filter>Source Files\System\StateMachine\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLoseState.cpp">
+      <Filter>Source Files\System\StateMachine\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMenuState.cpp">
+      <Filter>Source Files\System\StateMachine\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="GameRunningState.cpp">
+      <Filter>Source Files\System\StateMachine\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWinState.cpp">
+      <Filter>Source Files\System\StateMachine\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack.cpp">
+      <Filter>Source Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClCompile>
+    <ClCompile Include="Wander.cpp">
+      <Filter>Source Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBoss.cpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Angry.cpp">
+      <Filter>Source Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClCompile>
+    <ClCompile Include="DeadFury.cpp">
+      <Filter>Source Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Source Files\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Thunder.cpp">
+      <Filter>Source Files\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBall.cpp">
+      <Filter>Source Files\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomNumberGenerator.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadWriteSystem.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="UISavingLoading.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UITextureButton.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueMagicBullet.cpp">
+      <Filter>Source Files\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="SmallOpticalWave.cpp">
+      <Filter>Source Files\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicWave.cpp">
+      <Filter>Source Files\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleEmitter.cpp">
+      <Filter>Source Files\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="WeaponPowerUp.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="SuperBomb.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="BloodParticle.cpp">
+      <Filter>Source Files\ParticleObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleObject.cpp">
+      <Filter>Source Files\ParticleObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="WallBreakParticle.cpp">
+      <Filter>Source Files\ParticleObjects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SimpleSDLGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="DamageZone.h">
+      <Filter>Header Files\Zone</Filter>
+    </ClInclude>
+    <ClInclude Include="HealingZone.h">
+      <Filter>Header Files\Zone</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationComponent.h">
+      <Filter>Header Files\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionComponent.h">
+      <Filter>Header Files\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentBase.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectBase.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageLoadingSystem.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureSpriteSheet.h">
+      <Filter>Header Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="ZoneBase.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="WinZone.h">
+      <Filter>Header Files\Zone</Filter>
+    </ClInclude>
+    <ClInclude Include="Dragon.h">
+      <Filter>Header Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Header Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h">
+      <Filter>Header Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSystem.h">
+      <Filter>Header Files\System\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Header Files\System\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMachine.h">
+      <Filter>Header Files\System\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="SpawnerSystem.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldBackground.h">
+      <Filter>Header Files\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationObject.h">
+      <Filter>Header Files\OtherObject</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticBoarder.h">
+      <Filter>Header Files\OtherObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Header Files\OtherObject</Filter>
+    </ClInclude>
+    <ClInclude Include="UITextField.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIButton.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIHud.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIHealth.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIInputTaking.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIPlayerInfo.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundLoadingSystem.h">
+      <Filter>Header Files\System\SoundSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundPlayer.h">
+      <Filter>Header Files\System\SoundSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseState.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectState.h">
+      <Filter>Header Files\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEndingState.h">
+      <Filter>Header Files\System\StateMachine\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLoseState.h">
+      <Filter>Header Files\System\StateMachine\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenuState.h">
+      <Filter>Header Files\System\StateMachine\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="GameRunningState.h">
+      <Filter>Header Files\System\StateMachine\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWinState.h">
+      <Filter>Header Files\System\StateMachine\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack.h">
+      <Filter>Header Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClInclude>
+    <ClInclude Include="Wander.h">
+      <Filter>Header Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyState.h">
+      <Filter>Header Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClInclude>
+    <ClInclude Include="Angry.h">
+      <Filter>Header Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBoss.h">
+      <Filter>Header Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="DeadFury.h">
+      <Filter>Header Files\System\StateMachine\ObjectStates\EnemyStates</Filter>
+    </ClInclude>
+    <ClInclude Include="HasEnoughMana.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="IsAngry.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="IsDeadFury.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="AbilityAttack.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="DeadlyAttack.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="ManaRestore.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="DtNode.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="DecisionNode.h">
+      <Filter>Header Files\Enemy\BossAbilityAI</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Header Files\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Thunder.h">
+      <Filter>Header Files\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBall.h">
+      <Filter>Header Files\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomNumberGenerator.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadWriteSystem.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="UISavingLoading.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UITextureButton.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="EventListener.h">
+      <Filter>Header Files\System\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueMagicBullet.h">
+      <Filter>Header Files\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="SmallOpticalWave.h">
+      <Filter>Header Files\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicWave.h">
+      <Filter>Header Files\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleEmitter.h">
+      <Filter>Header Files\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponPowerUp.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponCombo.h">
+      <Filter>Header Files\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperBomb.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleObject.h">
+      <Filter>Header Files\ParticleObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="BloodParticle.h">
+      <Filter>Header Files\ParticleObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="WallBreakParticle.h">
+      <Filter>Header Files\ParticleObjects</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
